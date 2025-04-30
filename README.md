@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hi there, I'm Lucia 👋
+# Hey there, I'm Lucia 👋
 
 <!-- Contact-->
 <p align = "center">
