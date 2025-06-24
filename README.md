@@ -6,12 +6,11 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/luciariverabe/)
 [<img src="https://img.shields.io/badge/gmail-2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:luciariverabe17@gmail.com)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/luciariverabe)
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/lucia-rivera)
 </p>
 
 <!--Introduction -->
-Welcome to my GitHub profile! I'm an enthusiastic undergrad Computer Science student at the [University of Victoria](https://www.uvic.ca/), Canada. I'm passionate about programming, cybersecurity, and design. Let's harness innovation and tech to create a brighter future together!
+Welcome to my GitHub profile! I'm an undergrad Computer Science student at the [University of Victoria](https://www.uvic.ca/), Canada. I'm passionate about programming, data analysis, and design. 
 
 ### 🌱 Get to Know Me in 1 Minute:
 - I love programming and UI/UX design! Choosing colors and creating clear structures is my jam.
